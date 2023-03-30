@@ -11,7 +11,7 @@ Random Password Generator using HTML, CSS, JavaScript comes with 5 options in or
 
 
 # Purpose :
-To understand the deep concepts of JavaScript and HTML and CSS for eye-catching web-pages.
+To understand the deep concepts of JavaScript and HTML,CSS for designing eye-catching web-pages.
 
 
 
